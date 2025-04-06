@@ -11,9 +11,9 @@ const Header = () => {
 
           <nav className="flex flex-col sm:flex-row items-center w-full sm:w-auto space-y-3 sm:space-y-0 sm:space-x-6">
             <div className="flex space-x-4 sm:space-x-6 w-full sm:w-auto justify-center">
-              <a href="#" className="text-blue-600 font-medium border-b-2 border-black px-1 py-2 sm:py-3">Overview</a>
-              <a href="#" className="text-blue-600 hover:text-blue-800 transition duration-150 px-1 py-2 sm:py-3">Analytics</a>
-              <a href="#" className="text-blue-600 hover:text-blue-800 transition duration-150 px-1 py-2 sm:py-3">Reports</a>
+              <a href="/" className="text-blue-600 font-medium border-b-2 border-black px-1 py-2 sm:py-3">Overview</a>
+              <a href="/" className="text-blue-600 hover:text-blue-800 transition duration-150 px-1 py-2 sm:py-3">Analytics</a>
+              <a href="/" className="text-blue-600 hover:text-blue-800 transition duration-150 px-1 py-2 sm:py-3">Reports</a>
             </div>
 
             <button className="w-full sm:w-auto sm:ml-4 bg-blue-500 text-white hover:bg-blue-600 font-medium px-4 py-2 rounded-lg shadow transition duration-150 flex items-center justify-center">
